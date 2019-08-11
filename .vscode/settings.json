@@ -4,7 +4,9 @@
     "Pany",
     "firebaseapp",
     "firestore",
+    "heroku",
     "middlewares",
-    "persistor"
+    "persistor",
+    "postbuild"
   ]
 }
