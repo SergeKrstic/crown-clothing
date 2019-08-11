@@ -3,6 +3,8 @@
     "BEIL",
     "Pany",
     "firebaseapp",
-    "firestore"
+    "firestore",
+    "middlewares",
+    "persistor"
   ]
 }
